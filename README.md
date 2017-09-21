@@ -1,7 +1,7 @@
 # Git-Select
 Git-Select : A Github based candidate selector
 
-Demo :https://itsksaurabh.github.io/Git-Select/index.html
+Demo :  https://itsksaurabh.github.io/Git-Select/index.html
 
 Description :
 
