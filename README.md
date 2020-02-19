@@ -10,7 +10,9 @@ Servlets is used to store data into MS Access Database.
 # Demo
 see Demo here :  https://itsksaurabh.github.io/Git-Select/index.html
 
-<img width="800px" src="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/26/664952/42c6f07f3d7f174c155b9120219eac7c-original.png" />
+<p align="center">
+  <img src="./assets/captured.gif" />
+</p>
 
 # Help & Support
 <ul>
